@@ -50,8 +50,20 @@ O desenvolvimento contou com o apoio do Cursor (editor de código com IA integra
 ---
 
 ## 📸 Preview
-![Versão Desktop](./assets/hero.png)
-![Versão Mobile](./assets/hero-mobile.png)
+
+<div align="center">
+
+### 💻 Desktop
+<img src="./assets/hero.png" alt="Hero Desktop" width="90%">
+
+<br><br>
+
+### 📱 Mobile
+<img src="./assets/hero-mobile.png" alt="Hero Mobile" width="40%">
+
+</div>
+
+
 ---
 
 ## 🌐 Deploy
